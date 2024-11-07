@@ -9,6 +9,7 @@ My technical skills in SQL and Python allow me to write procedures, develop ETL 
 Additionally, I am a dedicated team worker who loves to share knowledge and learn collaboratively. I thrive on working with people, listening to their ideas, and encouraging them to discover the best in themselves. 
 My leadership style focuses on bringing out the strengths of each team member, fostering a collaborative environment that results in exceptional teamwork.
 
+Ps: There are some private projects here which I can't share. If you are interisted about them, contact me at aapaura@gmail.com
 
 <!---
 amandapaura/amandapaura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
